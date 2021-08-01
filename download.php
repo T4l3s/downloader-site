@@ -85,15 +85,15 @@
 <body>
     
 <div class="w3-input w3-border w3-round-large" >
-<a href="/"><center> <h1 > Home </h1> </center></a> </div>
+<a href="/"><center> <h1 > Início </h1> </center></a> </div>
     
 <form action="/searchfilter.php" class="w3-container w3-card-4 w3-light-grey">
-   <center> <h2> Put The Query to Search </h2> </center>
+   <center> <h2> Cole seu URL aqui </h2> </center>
    
   <p>
   <input class="w3-input w3-border w3-round-large" name="s" type="text"></p>
   <center>
-   <button type="submit" class="w3-bar-item w3-button w3-red" > Search! </button></center>
+   <button type="submit" class="w3-bar-item w3-button w3-red" > Pesquisar! </button></center>
    <br><br>
 </form>
  <?php
